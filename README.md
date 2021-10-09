@@ -4,7 +4,7 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="Sem título-2.jpg"  height=400" width="700" />
 </h1>
 
-## Quem sou eu? 
+## Quem sou eu? 😃
 
 * 👩‍💻 Cientista de dados.
 * 📊 Consultor de inteligência de negócios.
@@ -19,15 +19,20 @@
 * 📊 Data Visualization
 * 🏬 Data Warehouse.
 
-## Encontre-me em:
+## Encontre-me em: 📇
 
 *  [Linkedin]( https://br.linkedin.com/in/matheus-moura-ba6b9612b)
 
-## **My projects**
-
-* [Churn Model](https://github.com/scudilio/Churn_model)
-* [Data Visualization](https://github.com/scudilio/Visualizacao_de_dados)
-* [WebScraping](https://github.com/scudilio/webscraping_wordcloud)
-* [TextMining](https://github.com/scudilio/text_mining)
+## **Projetos finalizados** ✅ 
+### **Power BI** 📊
+* [Covid-19 do município de Assú](https://app.powerbi.com/view?r=eyJrIjoiMWM3ZGU3ZDMtNDg3ZC00ZjA3LThhZGYtZGE4YWM1NzllMjg1IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection)
+* [Covid-19 do município de Carbaubáis](https://app.powerbi.com/view?r=eyJrIjoiZWI4MDE2MzItMWEzNC00MWMxLTgzN2ItOWE5NTJiOWY1NWIwIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection9ce4bd60d086b8e14b5c)              
+                                                                                       
+* [Vendas x Metas](https://app.powerbi.com/view?r=eyJrIjoiMTQ3MjYzMWUtODNiNC00NDIwLThmODctOTNjZDliZTkwZTgyIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection3d468d46572778348d00)              
+                                                                                                   
+### **Data Science** 📈   
+                                                                                                   
+                                                                                                   
+## **Projetos em andamento** 🚧
 
 
