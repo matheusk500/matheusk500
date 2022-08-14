@@ -29,7 +29,7 @@
 * [Covid-19 do município de Carnaubáis](https://app.powerbi.com/view?r=eyJrIjoiZWI4MDE2MzItMWEzNC00MWMxLTgzN2ItOWE5NTJiOWY1NWIwIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection9ce4bd60d086b8e14b5c)              
                                                                                        
 * [Vendas x Metas](https://app.powerbi.com/view?r=eyJrIjoiMTQ3MjYzMWUtODNiNC00NDIwLThmODctOTNjZDliZTkwZTgyIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection3d468d46572778348d00)              
-                                                                                                   
+* [Suicídios no Brasil](https://app.powerbi.com/view?r=eyJrIjoiNmFjMzRhNGEtZWY4NC00NzgwLWI1MmMtMzEwMDU5MzZmZWMyIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9)                                                                                                 
 ### **Data Science** 📈   
                                                                                                    
                                                                                                    
