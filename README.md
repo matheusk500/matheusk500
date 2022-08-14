@@ -31,7 +31,7 @@
 * [Vendas x Metas](https://app.powerbi.com/view?r=eyJrIjoiMTQ3MjYzMWUtODNiNC00NDIwLThmODctOTNjZDliZTkwZTgyIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection3d468d46572778348d00)              
 * [Suicídios no Brasil](https://app.powerbi.com/view?r=eyJrIjoiNmFjMzRhNGEtZWY4NC00NzgwLWI1MmMtMzEwMDU5MzZmZWMyIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9)                                                                                                 
 ### **Data Science** 📈   
-                                                                                                   
+* [Doenças cardiovasculares](https://github.com/matheusk500/DataScience/blob/d09c826fbc6b2df851cbecd64c2e7746f403596e/As%20doen%C3%A7as%20cardiovasculares.ipynb)                                                                                                  
                                                                                                    
 ## **Projetos em andamento** 🚧
 
