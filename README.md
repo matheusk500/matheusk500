@@ -41,7 +41,7 @@
 * [Doenças cardiovasculares](https://github.com/matheusk500/DataScience/blob/d09c826fbc6b2df851cbecd64c2e7746f403596e/As%20doen%C3%A7as%20cardiovasculares.ipynb)
 
 * [Recursos Humanos](https://github.com/matheusk500/DataScience/blob/master/Recursos%20Humanos/Recursos%20Humanos.ipynb)                                                                      
-                        https://github.com/matheusk500/DataScience/tree/master/Recursos%20Humanos                                                                           
+                                                                   
 ## **Projetos em andamento** 🚧
 
 
